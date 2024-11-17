@@ -1,0 +1,6 @@
+makeluasprite(17 0,0)
+makegraphics(black and blue)
+\\ faça um movimento na janela
+A=5, X,Y
+B=X,Y
+C=0, 5,3
